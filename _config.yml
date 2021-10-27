@@ -10,7 +10,7 @@ description: >
 email: angelo.kitio@aims.ac.rw
 author:Angelo Junior KITIO TSAGUE
 avatar: "https://github.com/AngeloKItio/AngeloKItio.github.io/blob/gh-pages/angelo_kitio.jpg?raw=true"
-profile: One sentence introducing yourself.
+profile: Currently student at AIMS Rwanda.
 #twitter_username: twitter_username
 #github_username:  github_username
 profile_links:
@@ -29,8 +29,8 @@ excerpt_separator: <!--more-->
 header:
   links:             # Links on the header. Link to in-site page with a slash as prefix
     About: /about/
-    Category: /category/
-    Donate: https://laobubu.net/donate.html
+    #Category: /category/
+    #Donate: https://laobubu.net/donate.html
 
 permalink: /archivers/:title
 plugins:
